@@ -5,7 +5,4 @@ data/
 
 # Ignore Python Cache
 __pycache__/
-*.pyc
-
-# Ignore Environment variables
-.env
+venv/
