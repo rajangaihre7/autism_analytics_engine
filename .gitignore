@@ -1,7 +1,7 @@
 # Ignore Data Files
-data/
-*.csv
-*.xlsx
+#data/
+#*.csv
+#*.xlsx
 
 # Ignore Python Cache
 __pycache__/

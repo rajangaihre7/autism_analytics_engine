@@ -1,0 +1,421 @@
+participant_id,session_number,notes_intervention,sentiment_human,sentiment_score
+101,1,Therapist applied a '5-count' grounding technique by incorporating Solar system and space characters as peer models.,Neutral,0.898317277431488
+101,2,Therapist utilized musical cues for transition but required hand-over-hand prompting for compliance.,Neutral,0.8859948515892029
+101,3,Parent modeled social stories regarding transitions as a de-escalation measure when the child became overwhelmed.,Neutral,0.8297491669654846
+101,4,"Slowly utilized scripted social greetings, though the child's attention wavered throughout.",Neutral,0.7473682761192322
+101,5,Scaffolded auditory dampening (headphones) alongside Solar system and space visuals to re-engage the child.,Neutral,0.8442903757095337
+101,6,"Slowly scaffolded communication exchange cards (PECS), though the child's attention wavered throughout.",Neutral,0.8187875747680664
+101,7,Standard instruction failed; therapist employed standard behavioral prompting using Solar system and space props to regain composure.,Negative,0.5711230039596558
+101,8,Applied standard behavioral prompting alongside Solar system and space visuals to re-engage the child.,Neutral,0.8036510944366455
+101,9,"Attempted to utilized visual 'calm down' maps, but session was paused due to sensory escalation.",Neutral,0.54487144947052
+101,10,Child practiced musical cues for transition after the parent applied Solar system and space-themed positive reinforcement.,Neutral,0.7554839849472046
+101,11,Parent utilized visual cues to support the child's understanding of predictive scheduling.,Neutral,0.8051695227622986
+101,12,Parent modeled visual cues to support the child's understanding of facial emotion recognition cards.,Neutral,0.8642506003379822
+101,13,"Session introduced dimmed lighting environments within a customized Solar system and space storyline, capturing sustained attention.",Neutral,0.7065894603729248
+101,14,Parent successfully scaffolded communication exchange cards (PECS); child was highly motivated by the Solar system and space narrative.,Positive,0.7298673987388611
+102,1,Therapist employed deep breathing protocols but required hand-over-hand prompting for compliance.,Neutral,0.8785120844841003
+102,2,Moderately utilized a digital visual timer with frequent verbal reminders required.,Neutral,0.8994351625442505
+102,3,Utilized social stories regarding transitions alongside Disney princesses (Frozen) visuals to re-engage the child.,Neutral,0.5925577878952026
+102,4,Integrated scripted social greetings alongside Disney princesses (Frozen) visuals to re-engage the child.,Positive,0.4975520372390747
+102,5,Moderately scaffolded a designated quiet zone with frequent verbal reminders required.,Neutral,0.8659099340438843
+102,6,Moderately integrated verbal sentence starters with frequent verbal reminders required.,Neutral,0.875758707523346
+102,7,Parent applied standard behavioral prompting as a de-escalation measure when the child became overwhelmed.,Neutral,0.7835748195648193
+102,8,Child refused the task; introduced a simplified version of standard behavioral prompting to reduce anxiety.,Negative,0.6190842986106873
+102,9,Child refused the task; utilized a simplified version of a '5-count' grounding technique to reduce anxiety.,Negative,0.5914711952209473
+102,10,The AI applied adaptive storytelling to model a physical 'turn-taking' baton using Disney princesses (Frozen) analogies.,Neutral,0.6511290669441223
+102,11,The AI scaffolded adaptive storytelling to model a 'First-Then' visual board using Disney princesses (Frozen) analogies.,Neutral,0.6835830807685852
+102,12,"Session employed reciprocal play modeling within a customized Disney princesses (Frozen) storyline, capturing sustained attention.",Positive,0.5067287683486938
+102,13,Parent modeled visual cues to support the child's understanding of proprioceptive heavy work.,Neutral,0.8204815983772278
+102,14,The AI employed adaptive storytelling to model a 'help' button request using Disney princesses (Frozen) analogies.,Neutral,0.6085366010665894
+103,1,"Slowly modeled a '5-count' grounding technique, though the child's attention wavered throughout.",Neutral,0.8547136187553406
+103,2,Parent employed visual cues to support the child's understanding of a digital visual timer.,Neutral,0.7777884006500244
+103,3,Parent modeled visual cues to support the child's understanding of a 'First-Then' visual board.,Neutral,0.8388357162475586
+103,4,Moderately modeled facial emotion recognition cards with frequent verbal reminders required.,Neutral,0.8918424844741821
+103,5,Therapist employed dimmed lighting environments but required hand-over-hand prompting for compliance.,Neutral,0.84404456615448
+103,6,"Slowly applied verbal sentence starters, though the child's attention wavered throughout.",Neutral,0.7621955871582031
+103,7,Utilized standard behavioral prompting alongside Disney princesses (Frozen) visuals to re-engage the child.,Neutral,0.6899840235710144
+103,8,Parent scaffolded visual cues to support the child's understanding of standard behavioral prompting.,Neutral,0.8354120254516602
+103,9,Child refused the task; modeled a simplified version of visual 'calm down' maps to reduce anxiety.,Negative,0.5442929863929749
+103,10,"Slowly modeled a physical 'turn-taking' baton, though the child's attention wavered throughout.",Neutral,0.8525448441505432
+103,11,"Due to high distress, the session focused solely on applied a 'First-Then' visual board for emotional regulation.",Neutral,0.6844716668128967
+103,12,"Slowly modeled facial emotion recognition cards, though the child's attention wavered throughout.",Neutral,0.8266614079475403
+103,13,Utilized dimmed lighting environments alongside Disney princesses (Frozen) visuals to re-engage the child.,Neutral,0.6935194730758667
+103,14,Therapist scaffolded gestural prompting by incorporating Disney princesses (Frozen) characters as peer models.,Neutral,0.8106651902198792
+104,1,Parent utilized visual 'calm down' maps as a de-escalation measure when the child became overwhelmed.,Neutral,0.7910511493682861
+104,2,Integrated musical cues for transition alongside Disney princesses (Frozen) visuals to re-engage the child.,Neutral,0.6390957832336426
+104,3,Parent scaffolded visual cues to support the child's understanding of predictive scheduling.,Neutral,0.8087478280067444
+104,4,Applied joint attention activities alongside Disney princesses (Frozen) visuals to re-engage the child.,Positive,0.5162009596824646
+104,5,Parent introduced visual cues to support the child's understanding of auditory dampening (headphones).,Neutral,0.8104104399681091
+104,6,Moderately integrated gestural prompting with frequent verbal reminders required.,Neutral,0.887557327747345
+104,7,Scaffolded standard behavioral prompting alongside Disney princesses (Frozen) visuals to re-engage the child.,Neutral,0.7351329326629639
+104,8,Moderately utilized standard behavioral prompting with frequent verbal reminders required.,Neutral,0.8781508207321167
+104,9,Parent modeled tactile stress-relief objects as a de-escalation measure when the child became overwhelmed.,Neutral,0.7474520206451416
+104,10,Therapist modeled musical cues for transition but required hand-over-hand prompting for compliance.,Neutral,0.8883134126663208
+104,11,"Session modeled a 'First-Then' visual board within a customized Disney princesses (Frozen) storyline, capturing sustained attention.",Positive,0.5303189754486084
+104,12,Therapist employed joint attention activities by incorporating Disney princesses (Frozen) characters as peer models.,Neutral,0.6643207669258118
+104,13,Therapist utilized proprioceptive heavy work by incorporating Disney princesses (Frozen) characters as peer models.,Neutral,0.7490803599357605
+104,14,Child practiced a 'help' button request after the parent integrated Disney princesses (Frozen)-themed positive reinforcement.,Positive,0.5588803887367249
+105,1,Child refused the task; integrated a simplified version of visual 'calm down' maps to reduce anxiety.,Neutral,0.5003116726875305
+105,2,"Due to high distress, the session focused solely on modeled musical cues for transition for emotional regulation.",Neutral,0.7587511539459229
+105,3,Moderately utilized front-loading of upcoming changes with frequent verbal reminders required.,Neutral,0.8841061592102051
+105,4,Standard instruction failed; therapist utilized reciprocal play modeling using Trains and mechanical systems props to regain composure.,Negative,0.5376625061035156
+105,5,"Slowly integrated auditory dampening (headphones), though the child's attention wavered throughout.",Neutral,0.8117886781692505
+105,6,Standard instruction failed; therapist integrated communication exchange cards (PECS) using Trains and mechanical systems props to regain composure.,Negative,0.6492753624916077
+105,7,Therapist integrated standard behavioral prompting but required hand-over-hand prompting for compliance.,Neutral,0.86262047290802
+105,8,"Slowly modeled standard behavioral prompting, though the child's attention wavered throughout.",Neutral,0.8632590770721436
+105,9,Therapist scaffolded deep breathing protocols but required hand-over-hand prompting for compliance.,Neutral,0.8710557818412781
+105,10,Child refused the task; integrated a simplified version of musical cues for transition to reduce anxiety.,Neutral,0.5025087594985962
+105,11,Parent modeled visual cues to support the child's understanding of social stories regarding transitions.,Neutral,0.8379620909690857
+105,12,Therapist modeled facial emotion recognition cards by incorporating Trains and mechanical systems characters as peer models.,Neutral,0.9085306525230408
+105,13,Child practiced a designated quiet zone after the parent integrated Trains and mechanical systems-themed positive reinforcement.,Neutral,0.7490472197532654
+105,14,Therapist integrated gestural prompting but required hand-over-hand prompting for compliance.,Neutral,0.8666538000106812
+106,1,Therapist utilized deep breathing protocols but required hand-over-hand prompting for compliance.,Neutral,0.8773846626281738
+106,2,Parent integrated visual cues to support the child's understanding of a digital visual timer.,Neutral,0.7347261905670166
+106,3,Child refused the task; introduced a simplified version of a 'First-Then' visual board to reduce anxiety.,Negative,0.5202397704124451
+106,4,Parent applied visual cues to support the child's understanding of reciprocal play modeling.,Neutral,0.729550302028656
+106,5,Therapist scaffolded proprioceptive heavy work but required hand-over-hand prompting for compliance.,Neutral,0.8568763732910156
+106,6,Parent applied visual cues to support the child's understanding of communication exchange cards (PECS).,Neutral,0.7803440690040588
+106,7,Parent integrated standard behavioral prompting as a de-escalation measure when the child became overwhelmed.,Neutral,0.7636609673500061
+106,8,Therapist integrated standard behavioral prompting but required hand-over-hand prompting for compliance.,Neutral,0.86262047290802
+106,9,Parent scaffolded visual cues to support the child's understanding of tactile stress-relief objects.,Neutral,0.804815948009491
+106,10,Modeled a physical 'turn-taking' baton alongside Disney princesses (Frozen) visuals to re-engage the child.,Neutral,0.6902144551277161
+106,11,Parent successfully employed a 'First-Then' visual board; child was highly motivated by the Disney princesses (Frozen) narrative.,Positive,0.785335898399353
+106,12,Child practiced facial emotion recognition cards after the parent employed Disney princesses (Frozen)-themed positive reinforcement.,Neutral,0.5136399865150452
+106,13,The AI scaffolded adaptive storytelling to model a designated quiet zone using Disney princesses (Frozen) analogies.,Neutral,0.6967025399208069
+106,14,"Slowly introduced a 'help' button request, though the child's attention wavered throughout.",Neutral,0.8082530498504639
+107,1,"Due to high distress, the session focused solely on utilized visual 'calm down' maps for emotional regulation.",Neutral,0.7716279029846191
+107,2,Child practiced a physical 'turn-taking' baton after the parent introduced Minecraft and building blocks-themed positive reinforcement.,Positive,0.7029927968978882
+107,3,Standard instruction failed; therapist modeled a 'First-Then' visual board using Minecraft and building blocks props to regain composure.,Negative,0.5117672085762024
+107,4,Standard instruction failed; therapist applied facial emotion recognition cards using Minecraft and building blocks props to regain composure.,Negative,0.499664843082428
+107,5,Moderately utilized dimmed lighting environments with frequent verbal reminders required.,Neutral,0.8652079105377197
+107,6,Child practiced communication exchange cards (PECS) after the parent integrated Minecraft and building blocks-themed positive reinforcement.,Positive,0.6092472076416016
+107,7,Therapist utilized standard behavioral prompting but required hand-over-hand prompting for compliance.,Neutral,0.8734468221664429
+107,8,Parent successfully scaffolded standard behavioral prompting; child was highly motivated by the Minecraft and building blocks narrative.,Positive,0.8139732480049133
+107,9,Therapist scaffolded tactile stress-relief objects but required hand-over-hand prompting for compliance.,Neutral,0.8471001386642456
+107,10,Child practiced a physical 'turn-taking' baton after the parent integrated Minecraft and building blocks-themed positive reinforcement.,Positive,0.6037617921829224
+107,11,Child refused the task; applied a simplified version of predictive scheduling to reduce anxiety.,Negative,0.6135623455047607
+107,12,Therapist introduced joint attention activities by incorporating Minecraft and building blocks characters as peer models.,Positive,0.6558405756950378
+107,13,Child practiced auditory dampening (headphones) after the parent applied Minecraft and building blocks-themed positive reinforcement.,Neutral,0.6105077266693115
+107,14,Therapist scaffolded communication exchange cards (PECS) but required hand-over-hand prompting for compliance.,Neutral,0.8604504466056824
+108,1,Child refused the task; integrated a simplified version of visual 'calm down' maps to reduce anxiety.,Neutral,0.5003116726875305
+108,2,Child refused the task; utilized a simplified version of musical cues for transition to reduce anxiety.,Negative,0.5577673316001892
+108,3,"Attempted to utilized predictive scheduling, but session was paused due to sensory escalation.",Neutral,0.4912213087081909
+108,4,Parent utilized reciprocal play modeling as a de-escalation measure when the child became overwhelmed.,Neutral,0.8103547096252441
+108,5,"Due to high distress, the session focused solely on modeled dimmed lighting environments for emotional regulation.",Neutral,0.6627007126808167
+108,6,Parent utilized visual cues to support the child's understanding of verbal sentence starters.,Neutral,0.7864091396331787
+108,7,"Attempted to utilized standard behavioral prompting, but session was paused due to sensory escalation.",Neutral,0.5229827761650085
+108,8,Modeled standard behavioral prompting alongside Disney princesses (Frozen) visuals to re-engage the child.,Neutral,0.7254254221916199
+108,9,Therapist modeled deep breathing protocols but required hand-over-hand prompting for compliance.,Neutral,0.8772960305213928
+108,10,"Session applied structured role-play scenarios within a customized Disney princesses (Frozen) storyline, capturing sustained attention.",Neutral,0.533717930316925
+108,11,Therapist applied a 'First-Then' visual board but required hand-over-hand prompting for compliance.,Neutral,0.8790143728256226
+108,12,"Slowly scaffolded facial emotion recognition cards, though the child's attention wavered throughout.",Neutral,0.8451715111732483
+108,13,Moderately integrated auditory dampening (headphones) with frequent verbal reminders required.,Neutral,0.752400815486908
+108,14,"Slowly utilized communication exchange cards (PECS), though the child's attention wavered throughout.",Neutral,0.7999574542045593
+109,1,Therapist scaffolded tactile stress-relief objects but required hand-over-hand prompting for compliance.,Neutral,0.8471001386642456
+109,2,Child refused the task; employed a simplified version of structured role-play scenarios to reduce anxiety.,Negative,0.5020520091056824
+109,3,Therapist applied predictive scheduling but required hand-over-hand prompting for compliance.,Neutral,0.8756072521209717
+109,4,Standard instruction failed; therapist introduced joint attention activities using Minecraft and building blocks props to regain composure.,Neutral,0.4754132628440857
+109,5,"Due to high distress, the session focused solely on introduced dimmed lighting environments for emotional regulation.",Neutral,0.6503130197525024
+109,6,Therapist modeled verbal sentence starters but required hand-over-hand prompting for compliance.,Neutral,0.8653654456138611
+109,7,Moderately utilized standard behavioral prompting with frequent verbal reminders required.,Neutral,0.8781508207321167
+109,8,Therapist utilized standard behavioral prompting by incorporating Minecraft and building blocks characters as peer models.,Neutral,0.6864133477210999
+109,9,Parent successfully introduced deep breathing protocols; child was highly motivated by the Minecraft and building blocks narrative.,Positive,0.8507035970687866
+109,10,Therapist applied structured role-play scenarios but required hand-over-hand prompting for compliance.,Neutral,0.8744155168533325
+109,11,Therapist modeled predictive scheduling but required hand-over-hand prompting for compliance.,Neutral,0.8728261590003967
+109,12,Parent successfully introduced scripted social greetings; child was highly motivated by the Minecraft and building blocks narrative.,Positive,0.8666281700134277
+109,13,The AI scaffolded adaptive storytelling to model a designated quiet zone using Minecraft and building blocks analogies.,Neutral,0.5316396355628967
+109,14,Therapist modeled gestural prompting by incorporating Minecraft and building blocks characters as peer models.,Neutral,0.6375288367271423
+110,1,Parent utilized deep breathing protocols as a de-escalation measure when the child became overwhelmed.,Neutral,0.799186110496521
+110,2,Child refused the task; employed a simplified version of a digital visual timer to reduce anxiety.,Negative,0.5508476495742798
+110,3,Moderately integrated predictive scheduling with frequent verbal reminders required.,Neutral,0.8887640833854675
+110,4,Parent utilized visual cues to support the child's understanding of joint attention activities.,Neutral,0.7061518430709839
+110,5,Therapist integrated a designated quiet zone but required hand-over-hand prompting for compliance.,Neutral,0.8265624046325684
+110,6,Standard instruction failed; therapist applied a 'help' button request using Elevators and numbers props to regain composure.,Negative,0.5644347071647644
+110,7,The AI modeled adaptive storytelling to model standard behavioral prompting using Elevators and numbers analogies.,Neutral,0.7871251106262207
+110,8,Child practiced standard behavioral prompting after the parent scaffolded Elevators and numbers-themed positive reinforcement.,Neutral,0.7545115351676941
+110,9,Parent successfully applied tactile stress-relief objects; child was highly motivated by the Elevators and numbers narrative.,Positive,0.6301890015602112
+110,10,Child practiced a digital visual timer after the parent modeled Elevators and numbers-themed positive reinforcement.,Neutral,0.7074894309043884
+110,11,Parent successfully scaffolded social stories regarding transitions; child was highly motivated by the Elevators and numbers narrative.,Positive,0.7061346173286438
+110,12,Child practiced scripted social greetings after the parent modeled Elevators and numbers-themed positive reinforcement.,Neutral,0.5907244086265564
+110,13,The AI integrated adaptive storytelling to model dimmed lighting environments using Elevators and numbers analogies.,Neutral,0.7677722573280334
+110,14,"Attempted to employed communication exchange cards (PECS), but session was paused due to sensory escalation.",Negative,0.5507529377937317
+111,1,Standard instruction failed; therapist introduced visual 'calm down' maps using Elevators and numbers props to regain composure.,Negative,0.5288617014884949
+111,2,"Slowly modeled musical cues for transition, though the child's attention wavered throughout.",Neutral,0.8331725597381592
+111,3,"Slowly applied a 'First-Then' visual board, though the child's attention wavered throughout.",Neutral,0.818191409111023
+111,4,Standard instruction failed; therapist employed scripted social greetings using Elevators and numbers props to regain composure.,Negative,0.5846809148788452
+111,5,"Due to high distress, the session focused solely on utilized a designated quiet zone for emotional regulation.",Neutral,0.7632198333740234
+111,6,Therapist scaffolded a 'help' button request but required hand-over-hand prompting for compliance.,Neutral,0.847122848033905
+111,7,"Slowly utilized standard behavioral prompting, though the child's attention wavered throughout.",Neutral,0.8456207513809204
+111,8,"Slowly employed standard behavioral prompting, though the child's attention wavered throughout.",Neutral,0.8400230407714844
+111,9,Scaffolded a '5-count' grounding technique alongside Elevators and numbers visuals to re-engage the child.,Neutral,0.7903375625610352
+111,10,Therapist scaffolded a digital visual timer but required hand-over-hand prompting for compliance.,Neutral,0.8748033046722412
+111,11,"Slowly modeled front-loading of upcoming changes, though the child's attention wavered throughout.",Neutral,0.8103687763214111
+111,12,Therapist introduced reciprocal play modeling but required hand-over-hand prompting for compliance.,Neutral,0.8623086214065552
+111,13,Therapist modeled a designated quiet zone by incorporating Elevators and numbers characters as peer models.,Neutral,0.8750143051147461
+111,14,Parent introduced visual cues to support the child's understanding of communication exchange cards (PECS).,Neutral,0.7433040738105774
+112,1,"Slowly modeled visual 'calm down' maps, though the child's attention wavered throughout.",Neutral,0.8149943947792053
+112,2,Parent modeled visual cues to support the child's understanding of structured role-play scenarios.,Neutral,0.8289148211479187
+112,3,Parent applied visual cues to support the child's understanding of social stories regarding transitions.,Neutral,0.7870866060256958
+112,4,Therapist applied facial emotion recognition cards but required hand-over-hand prompting for compliance.,Neutral,0.879926323890686
+112,5,Introduced auditory dampening (headphones) alongside Disney princesses (Frozen) visuals to re-engage the child.,Neutral,0.7931265830993652
+112,6,Standard instruction failed; therapist introduced communication exchange cards (PECS) using Disney princesses (Frozen) props to regain composure.,Negative,0.4727100133895874
+112,7,Employed standard behavioral prompting alongside Disney princesses (Frozen) visuals to re-engage the child.,Neutral,0.6395890116691589
+112,8,Integrated standard behavioral prompting alongside Disney princesses (Frozen) visuals to re-engage the child.,Neutral,0.6653497219085693
+112,9,Moderately modeled tactile stress-relief objects with frequent verbal reminders required.,Neutral,0.8353251814842224
+112,10,Therapist utilized a digital visual timer but required hand-over-hand prompting for compliance.,Neutral,0.8844733834266663
+112,11,Parent scaffolded visual cues to support the child's understanding of social stories regarding transitions.,Neutral,0.77977055311203
+112,12,Therapist utilized scripted social greetings by incorporating Disney princesses (Frozen) characters as peer models.,Neutral,0.7308604121208191
+112,13,The AI introduced adaptive storytelling to model dimmed lighting environments using Disney princesses (Frozen) analogies.,Neutral,0.5772011876106262
+112,14,Child practiced communication exchange cards (PECS) after the parent utilized Disney princesses (Frozen)-themed positive reinforcement.,Positive,0.5326133370399475
+113,1,"Due to high distress, the session focused solely on introduced tactile stress-relief objects for emotional regulation.",Neutral,0.7209028005599976
+113,2,Standard instruction failed; therapist utilized structured role-play scenarios using Elevators and numbers props to regain composure.,Negative,0.6081165075302124
+113,3,Therapist integrated a 'First-Then' visual board but required hand-over-hand prompting for compliance.,Neutral,0.8506706357002258
+113,4,Child refused the task; scaffolded a simplified version of reciprocal play modeling to reduce anxiety.,Negative,0.5927276015281677
+113,5,Modeled auditory dampening (headphones) alongside Elevators and numbers visuals to re-engage the child.,Neutral,0.8496549725532532
+113,6,Integrated a 'help' button request alongside Elevators and numbers visuals to re-engage the child.,Neutral,0.7278885841369629
+113,7,Child refused the task; utilized a simplified version of standard behavioral prompting to reduce anxiety.,Negative,0.6342735290527344
+113,8,Child practiced standard behavioral prompting after the parent scaffolded Elevators and numbers-themed positive reinforcement.,Neutral,0.7545115351676941
+113,9,Parent modeled visual cues to support the child's understanding of deep breathing protocols.,Neutral,0.8534377813339233
+113,10,Parent applied visual cues to support the child's understanding of musical cues for transition.,Neutral,0.7880412340164185
+113,11,Parent introduced a 'First-Then' visual board as a de-escalation measure when the child became overwhelmed.,Neutral,0.8033239841461182
+113,12,Moderately scaffolded reciprocal play modeling with frequent verbal reminders required.,Neutral,0.8957511186599731
+113,13,Integrated dimmed lighting environments alongside Elevators and numbers visuals to re-engage the child.,Neutral,0.6117944121360779
+113,14,"Due to high distress, the session focused solely on scaffolded communication exchange cards (PECS) for emotional regulation.",Neutral,0.6241344809532166
+114,1,Child refused the task; scaffolded a simplified version of a '5-count' grounding technique to reduce anxiety.,Negative,0.6305698752403259
+114,2,Parent modeled visual cues to support the child's understanding of structured role-play scenarios.,Neutral,0.8289148211479187
+114,3,Child refused the task; utilized a simplified version of social stories regarding transitions to reduce anxiety.,Negative,0.5396358370780945
+114,4,Parent scaffolded visual cues to support the child's understanding of reciprocal play modeling.,Neutral,0.7091059684753418
+114,5,Child refused the task; applied a simplified version of a designated quiet zone to reduce anxiety.,Negative,0.62531578540802
+114,6,"Attempted to integrated a 'help' button request, but session was paused due to sensory escalation.",Negative,0.6198586821556091
+114,7,Scaffolded standard behavioral prompting alongside Minecraft and building blocks visuals to re-engage the child.,Positive,0.5454094409942627
+114,8,Parent modeled visual cues to support the child's understanding of standard behavioral prompting.,Neutral,0.8612831830978394
+114,9,"Slowly introduced tactile stress-relief objects, though the child's attention wavered throughout.",Neutral,0.8174616098403931
+114,10,Therapist applied musical cues for transition but required hand-over-hand prompting for compliance.,Neutral,0.8853241801261902
+114,11,Moderately integrated front-loading of upcoming changes with frequent verbal reminders required.,Neutral,0.8875462412834167
+114,12,Standard instruction failed; therapist integrated scripted social greetings using Minecraft and building blocks props to regain composure.,Negative,0.4970257580280304
+114,13,"Slowly scaffolded auditory dampening (headphones), though the child's attention wavered throughout.",Neutral,0.8156752586364746
+114,14,Child practiced gestural prompting after the parent employed Minecraft and building blocks-themed positive reinforcement.,Positive,0.6224741339683533
+115,1,Therapist utilized deep breathing protocols but required hand-over-hand prompting for compliance.,Neutral,0.8773846626281738
+115,2,"Due to high distress, the session focused solely on employed a physical 'turn-taking' baton for emotional regulation.",Neutral,0.7176150679588318
+115,3,Parent scaffolded visual cues to support the child's understanding of predictive scheduling.,Neutral,0.8087478280067444
+115,4,"Slowly applied facial emotion recognition cards, though the child's attention wavered throughout.",Neutral,0.8151774406433105
+115,5,Moderately employed a designated quiet zone with frequent verbal reminders required.,Neutral,0.8764549493789673
+115,6,Parent successfully scaffolded verbal sentence starters; child was highly motivated by the Dinosaurs and fossils narrative.,Positive,0.5602531433105469
+115,7,"Slowly applied standard behavioral prompting, though the child's attention wavered throughout.",Neutral,0.8341282606124878
+115,8,Parent modeled visual cues to support the child's understanding of standard behavioral prompting.,Neutral,0.8612831830978394
+115,9,Standard instruction failed; therapist scaffolded tactile stress-relief objects using Dinosaurs and fossils props to regain composure.,Negative,0.6718696355819702
+115,10,The AI scaffolded adaptive storytelling to model musical cues for transition using Dinosaurs and fossils analogies.,Neutral,0.819083034992218
+115,11,"Slowly scaffolded predictive scheduling, though the child's attention wavered throughout.",Neutral,0.8358985185623169
+115,12,Parent modeled visual cues to support the child's understanding of reciprocal play modeling.,Neutral,0.760986328125
+115,13,Therapist modeled a designated quiet zone by incorporating Dinosaurs and fossils characters as peer models.,Neutral,0.8699657320976257
+115,14,"Slowly modeled a 'help' button request, though the child's attention wavered throughout.",Neutral,0.8310710191726685
+116,1,Moderately modeled a '5-count' grounding technique with frequent verbal reminders required.,Neutral,0.8963595628738403
+116,2,Standard instruction failed; therapist modeled musical cues for transition using Marine biology (Sharks) props to regain composure.,Negative,0.5912522077560425
+116,3,Child refused the task; introduced a simplified version of predictive scheduling to reduce anxiety.,Negative,0.5915736556053162
+116,4,Moderately applied joint attention activities with frequent verbal reminders required.,Neutral,0.8695381879806519
+116,5,Parent introduced visual cues to support the child's understanding of auditory dampening (headphones).,Neutral,0.8104104399681091
+116,6,"Slowly introduced a 'help' button request, though the child's attention wavered throughout.",Neutral,0.8082530498504639
+116,7,Parent introduced visual cues to support the child's understanding of standard behavioral prompting.,Neutral,0.8158988952636719
+116,8,Therapist modeled standard behavioral prompting but required hand-over-hand prompting for compliance.,Neutral,0.8722553849220276
+116,9,"Slowly utilized visual 'calm down' maps, though the child's attention wavered throughout.",Neutral,0.7910955548286438
+116,10,Parent successfully modeled a physical 'turn-taking' baton; child was highly motivated by the Marine biology (Sharks) narrative.,Positive,0.6039822101593018
+116,11,Parent utilized visual cues to support the child's understanding of social stories regarding transitions.,Neutral,0.7774033546447754
+116,12,Modeled joint attention activities alongside Marine biology (Sharks) visuals to re-engage the child.,Neutral,0.6310390830039978
+116,13,Scaffolded dimmed lighting environments alongside Marine biology (Sharks) visuals to re-engage the child.,Neutral,0.8029735684394836
+116,14,"Session introduced verbal sentence starters within a customized Marine biology (Sharks) storyline, capturing sustained attention.",Neutral,0.6546610593795776
+117,1,Parent employed visual 'calm down' maps as a de-escalation measure when the child became overwhelmed.,Neutral,0.7755549550056458
+117,2,"Attempted to scaffolded a physical 'turn-taking' baton, but session was paused due to sensory escalation.",Neutral,0.503031313419342
+117,3,Moderately utilized predictive scheduling with frequent verbal reminders required.,Neutral,0.8874126672744751
+117,4,Moderately integrated scripted social greetings with frequent verbal reminders required.,Neutral,0.8638315796852112
+117,5,Parent scaffolded visual cues to support the child's understanding of auditory dampening (headphones).,Neutral,0.8084983825683594
+117,6,Moderately employed verbal sentence starters with frequent verbal reminders required.,Neutral,0.8824710845947266
+117,7,"Slowly introduced standard behavioral prompting, though the child's attention wavered throughout.",Neutral,0.8560594916343689
+117,8,Child refused the task; utilized a simplified version of standard behavioral prompting to reduce anxiety.,Negative,0.6342735290527344
+117,9,"Slowly employed tactile stress-relief objects, though the child's attention wavered throughout.",Neutral,0.8197699189186096
+117,10,Parent utilized visual cues to support the child's understanding of musical cues for transition.,Neutral,0.7967863082885742
+117,11,Parent introduced visual cues to support the child's understanding of social stories regarding transitions.,Neutral,0.7710016965866089
+117,12,Parent introduced visual cues to support the child's understanding of facial emotion recognition cards.,Neutral,0.7900181412696838
+117,13,Parent successfully scaffolded a designated quiet zone; child was highly motivated by the Marine biology (Sharks) narrative.,Positive,0.6380044221878052
+117,14,Employed verbal sentence starters alongside Marine biology (Sharks) visuals to re-engage the child.,Neutral,0.6728073954582214
+118,1,Integrated visual 'calm down' maps alongside Minecraft and building blocks visuals to re-engage the child.,Positive,0.730606734752655
+118,2,Therapist employed a digital visual timer but required hand-over-hand prompting for compliance.,Neutral,0.8867534399032593
+118,3,"Slowly utilized front-loading of upcoming changes, though the child's attention wavered throughout.",Neutral,0.7753053307533264
+118,4,Moderately applied scripted social greetings with frequent verbal reminders required.,Neutral,0.8648980259895325
+118,5,Child refused the task; utilized a simplified version of dimmed lighting environments to reduce anxiety.,Negative,0.6212756037712097
+118,6,Child refused the task; employed a simplified version of a 'help' button request to reduce anxiety.,Negative,0.5958038568496704
+118,7,Therapist applied standard behavioral prompting but required hand-over-hand prompting for compliance.,Neutral,0.8798680305480957
+118,8,"Slowly scaffolded standard behavioral prompting, though the child's attention wavered throughout.",Neutral,0.8609046936035156
+118,9,Moderately integrated deep breathing protocols with frequent verbal reminders required.,Neutral,0.8848838806152344
+118,10,Parent integrated visual cues to support the child's understanding of musical cues for transition.,Neutral,0.7573128938674927
+118,11,Applied social stories regarding transitions alongside Minecraft and building blocks visuals to re-engage the child.,Positive,0.6312873959541321
+118,12,Parent employed visual cues to support the child's understanding of reciprocal play modeling.,Neutral,0.7246427536010742
+118,13,Utilized a designated quiet zone alongside Minecraft and building blocks visuals to re-engage the child.,Positive,0.6737152934074402
+118,14,Parent successfully introduced verbal sentence starters; child was highly motivated by the Minecraft and building blocks narrative.,Positive,0.8739383220672607
+119,1,Parent integrated visual 'calm down' maps as a de-escalation measure when the child became overwhelmed.,Neutral,0.7718111872673035
+119,2,Child refused the task; integrated a simplified version of a physical 'turn-taking' baton to reduce anxiety.,Negative,0.5111762285232544
+119,3,"Slowly introduced social stories regarding transitions, though the child's attention wavered throughout.",Neutral,0.8102588057518005
+119,4,Therapist applied joint attention activities but required hand-over-hand prompting for compliance.,Neutral,0.8770615458488464
+119,5,Modeled auditory dampening (headphones) alongside Trains and mechanical systems visuals to re-engage the child.,Neutral,0.8454557657241821
+119,6,Moderately introduced communication exchange cards (PECS) with frequent verbal reminders required.,Neutral,0.8683565258979797
+119,7,Introduced standard behavioral prompting alongside Trains and mechanical systems visuals to re-engage the child.,Neutral,0.854049563407898
+119,8,Therapist applied standard behavioral prompting but required hand-over-hand prompting for compliance.,Neutral,0.8798680305480957
+119,9,"Due to high distress, the session focused solely on applied visual 'calm down' maps for emotional regulation.",Neutral,0.7320249676704407
+119,10,"Session scaffolded musical cues for transition within a customized Trains and mechanical systems storyline, capturing sustained attention.",Neutral,0.7992849946022034
+119,11,Child practiced a 'First-Then' visual board after the parent scaffolded Trains and mechanical systems-themed positive reinforcement.,Neutral,0.8327257633209229
+119,12,Child refused the task; utilized a simplified version of reciprocal play modeling to reduce anxiety.,Negative,0.5320476293563843
+119,13,Child practiced auditory dampening (headphones) after the parent employed Trains and mechanical systems-themed positive reinforcement.,Neutral,0.8492051362991333
+119,14,The AI introduced adaptive storytelling to model gestural prompting using Trains and mechanical systems analogies.,Neutral,0.7365866899490356
+120,1,Moderately introduced deep breathing protocols with frequent verbal reminders required.,Neutral,0.8864779472351074
+120,2,Moderately applied musical cues for transition with frequent verbal reminders required.,Neutral,0.8924494385719299
+120,3,Scaffolded a 'First-Then' visual board alongside Dinosaurs and fossils visuals to re-engage the child.,Neutral,0.7472018599510193
+120,4,Parent applied visual cues to support the child's understanding of scripted social greetings.,Neutral,0.7472995519638062
+120,5,"Attempted to utilized a designated quiet zone, but session was paused due to sensory escalation.",Neutral,0.49524521827697754
+120,6,Parent successfully integrated communication exchange cards (PECS); child was highly motivated by the Dinosaurs and fossils narrative.,Positive,0.6381895542144775
+120,7,Parent introduced standard behavioral prompting as a de-escalation measure when the child became overwhelmed.,Neutral,0.7859099507331848
+120,8,The AI introduced adaptive storytelling to model standard behavioral prompting using Dinosaurs and fossils analogies.,Neutral,0.7566055655479431
+120,9,Therapist introduced visual 'calm down' maps by incorporating Dinosaurs and fossils characters as peer models.,Neutral,0.7637953758239746
+120,10,"Slowly applied a digital visual timer, though the child's attention wavered throughout.",Neutral,0.799985945224762
+120,11,Moderately applied predictive scheduling with frequent verbal reminders required.,Neutral,0.8822627663612366
+120,12,Parent modeled visual cues to support the child's understanding of scripted social greetings.,Neutral,0.8030862212181091
+120,13,"Slowly applied a designated quiet zone, though the child's attention wavered throughout.",Neutral,0.8227657079696655
+120,14,Moderately integrated communication exchange cards (PECS) with frequent verbal reminders required.,Neutral,0.8609793782234192
+121,1,Moderately applied tactile stress-relief objects with frequent verbal reminders required.,Neutral,0.8474090099334717
+121,2,Therapist integrated a digital visual timer but required hand-over-hand prompting for compliance.,Neutral,0.8546721339225769
+121,3,Moderately utilized a 'First-Then' visual board with frequent verbal reminders required.,Neutral,0.8915794491767883
+121,4,Child refused the task; introduced a simplified version of joint attention activities to reduce anxiety.,Negative,0.5594620108604431
+121,5,Therapist integrated proprioceptive heavy work but required hand-over-hand prompting for compliance.,Neutral,0.8560965657234192
+121,6,Standard instruction failed; therapist modeled a 'help' button request using Marine biology (Sharks) props to regain composure.,Negative,0.6044878363609314
+121,7,Parent modeled visual cues to support the child's understanding of standard behavioral prompting.,Neutral,0.8612831830978394
+121,8,"Session employed standard behavioral prompting within a customized Marine biology (Sharks) storyline, capturing sustained attention.",Neutral,0.774943470954895
+121,9,Parent successfully utilized deep breathing protocols; child was highly motivated by the Marine biology (Sharks) narrative.,Positive,0.6937288641929626
+121,10,Modeled structured role-play scenarios alongside Marine biology (Sharks) visuals to re-engage the child.,Neutral,0.8018361926078796
+121,11,Parent applied visual cues to support the child's understanding of predictive scheduling.,Neutral,0.816402792930603
+121,12,Parent employed visual cues to support the child's understanding of scripted social greetings.,Neutral,0.7545234560966492
+121,13,Child practiced a designated quiet zone after the parent employed Marine biology (Sharks)-themed positive reinforcement.,Neutral,0.6699498295783997
+121,14,Scaffolded verbal sentence starters alongside Marine biology (Sharks) visuals to re-engage the child.,Neutral,0.7697291970252991
+122,1,Child refused the task; applied a simplified version of a '5-count' grounding technique to reduce anxiety.,Negative,0.5836931467056274
+122,2,Child refused the task; scaffolded a simplified version of a physical 'turn-taking' baton to reduce anxiety.,Negative,0.6761384010314941
+122,3,Parent utilized a 'First-Then' visual board as a de-escalation measure when the child became overwhelmed.,Neutral,0.8188076019287109
+122,4,"Slowly modeled scripted social greetings, though the child's attention wavered throughout.",Neutral,0.7945570349693298
+122,5,Standard instruction failed; therapist applied auditory dampening (headphones) using Marine biology (Sharks) props to regain composure.,Negative,0.6110473871231079
+122,6,Introduced verbal sentence starters alongside Marine biology (Sharks) visuals to re-engage the child.,Neutral,0.7350143194198608
+122,7,"Slowly utilized standard behavioral prompting, though the child's attention wavered throughout.",Neutral,0.8456207513809204
+122,8,Child practiced standard behavioral prompting after the parent integrated Marine biology (Sharks)-themed positive reinforcement.,Neutral,0.8333457112312317
+122,9,Child refused the task; scaffolded a simplified version of deep breathing protocols to reduce anxiety.,Negative,0.657719075679779
+122,10,"Attempted to employed a physical 'turn-taking' baton, but session was paused due to sensory escalation.",Neutral,0.5109233260154724
+122,11,"Slowly integrated social stories regarding transitions, though the child's attention wavered throughout.",Neutral,0.7853955030441284
+122,12,"Slowly applied scripted social greetings, though the child's attention wavered throughout.",Neutral,0.7645130753517151
+122,13,Employed dimmed lighting environments alongside Marine biology (Sharks) visuals to re-engage the child.,Neutral,0.7082034945487976
+122,14,Moderately integrated a 'help' button request with frequent verbal reminders required.,Neutral,0.8409491181373596
+123,1,Therapist employed a '5-count' grounding technique but required hand-over-hand prompting for compliance.,Neutral,0.8822726011276245
+123,2,Child refused the task; applied a simplified version of a physical 'turn-taking' baton to reduce anxiety.,Negative,0.6150171160697937
+123,3,"Due to high distress, the session focused solely on integrated a 'First-Then' visual board for emotional regulation.",Neutral,0.7376048564910889
+123,4,Child refused the task; utilized a simplified version of reciprocal play modeling to reduce anxiety.,Negative,0.5320476293563843
+123,5,Parent scaffolded proprioceptive heavy work as a de-escalation measure when the child became overwhelmed.,Neutral,0.7551705837249756
+123,6,Parent utilized visual cues to support the child's understanding of gestural prompting.,Neutral,0.7955734729766846
+123,7,"Due to high distress, the session focused solely on scaffolded standard behavioral prompting for emotional regulation.",Neutral,0.718394935131073
+123,8,Parent applied visual cues to support the child's understanding of standard behavioral prompting.,Neutral,0.8306189775466919
+123,9,"Due to high distress, the session focused solely on utilized visual 'calm down' maps for emotional regulation.",Neutral,0.7716279029846191
+123,10,Utilized structured role-play scenarios alongside Dinosaurs and fossils visuals to re-engage the child.,Neutral,0.7789692878723145
+123,11,"Slowly introduced social stories regarding transitions, though the child's attention wavered throughout.",Neutral,0.8102588057518005
+123,12,Therapist utilized scripted social greetings by incorporating Dinosaurs and fossils characters as peer models.,Neutral,0.865805983543396
+123,13,Parent employed proprioceptive heavy work as a de-escalation measure when the child became overwhelmed.,Neutral,0.737444281578064
+123,14,Parent applied visual cues to support the child's understanding of communication exchange cards (PECS).,Neutral,0.7803440690040588
+124,1,"Attempted to modeled deep breathing protocols, but session was paused due to sensory escalation.",Negative,0.5071137547492981
+124,2,"Attempted to scaffolded musical cues for transition, but session was paused due to sensory escalation.",Neutral,0.5075202584266663
+124,3,Therapist scaffolded a 'First-Then' visual board but required hand-over-hand prompting for compliance.,Neutral,0.8652898669242859
+124,4,Child practiced facial emotion recognition cards after the parent applied Minecraft and building blocks-themed positive reinforcement.,Positive,0.5758909583091736
+124,5,Parent scaffolded visual cues to support the child's understanding of a designated quiet zone.,Neutral,0.7880101799964905
+124,6,Child refused the task; modeled a simplified version of a 'help' button request to reduce anxiety.,Negative,0.6266549825668335
+124,7,Applied standard behavioral prompting alongside Minecraft and building blocks visuals to re-engage the child.,Positive,0.5569913983345032
+124,8,"Slowly modeled standard behavioral prompting, though the child's attention wavered throughout.",Neutral,0.8632590770721436
+124,9,Therapist introduced deep breathing protocols by incorporating Minecraft and building blocks characters as peer models.,Positive,0.5865418910980225
+124,10,Parent successfully integrated musical cues for transition; child was highly motivated by the Minecraft and building blocks narrative.,Positive,0.8530891537666321
+124,11,Parent integrated visual cues to support the child's understanding of front-loading of upcoming changes.,Neutral,0.7381598353385925
+124,12,Integrated joint attention activities alongside Minecraft and building blocks visuals to re-engage the child.,Positive,0.8102072477340698
+124,13,"Slowly utilized auditory dampening (headphones), though the child's attention wavered throughout.",Neutral,0.8302686810493469
+124,14,Standard instruction failed; therapist modeled a 'help' button request using Minecraft and building blocks props to regain composure.,Negative,0.5358539819717407
+125,1,Child refused the task; applied a simplified version of visual 'calm down' maps to reduce anxiety.,Negative,0.561224639415741
+125,2,Child refused the task; scaffolded a simplified version of a physical 'turn-taking' baton to reduce anxiety.,Negative,0.6761384010314941
+125,3,Standard instruction failed; therapist scaffolded a 'First-Then' visual board using Disney princesses (Frozen) props to regain composure.,Negative,0.4990091919898987
+125,4,Applied scripted social greetings alongside Disney princesses (Frozen) visuals to re-engage the child.,Neutral,0.540995717048645
+125,5,Child refused the task; integrated a simplified version of a designated quiet zone to reduce anxiety.,Negative,0.5034583210945129
+125,6,"Slowly introduced gestural prompting, though the child's attention wavered throughout.",Neutral,0.8165602087974548
+125,7,The AI utilized adaptive storytelling to model standard behavioral prompting using Disney princesses (Frozen) analogies.,Neutral,0.7121914029121399
+125,8,Therapist employed standard behavioral prompting but required hand-over-hand prompting for compliance.,Neutral,0.8742468953132629
+125,9,Utilized a '5-count' grounding technique alongside Disney princesses (Frozen) visuals to re-engage the child.,Neutral,0.6264542937278748
+125,10,Parent scaffolded visual cues to support the child's understanding of a physical 'turn-taking' baton.,Neutral,0.8574862480163574
+125,11,Scaffolded predictive scheduling alongside Disney princesses (Frozen) visuals to re-engage the child.,Neutral,0.7019715905189514
+125,12,The AI introduced adaptive storytelling to model reciprocal play modeling using Disney princesses (Frozen) analogies.,Neutral,0.5826476812362671
+125,13,"Session scaffolded a designated quiet zone within a customized Disney princesses (Frozen) storyline, capturing sustained attention.",Neutral,0.5987431406974792
+125,14,Parent scaffolded visual cues to support the child's understanding of verbal sentence starters.,Neutral,0.7868872880935669
+126,1,Moderately employed a '5-count' grounding technique with frequent verbal reminders required.,Neutral,0.8989275097846985
+126,2,Therapist modeled a physical 'turn-taking' baton but required hand-over-hand prompting for compliance.,Neutral,0.8711176514625549
+126,3,Standard instruction failed; therapist applied front-loading of upcoming changes using Trains and mechanical systems props to regain composure.,Negative,0.5449352860450745
+126,4,Moderately integrated facial emotion recognition cards with frequent verbal reminders required.,Neutral,0.8886464238166809
+126,5,Child refused the task; utilized a simplified version of dimmed lighting environments to reduce anxiety.,Negative,0.6212756037712097
+126,6,Therapist integrated gestural prompting but required hand-over-hand prompting for compliance.,Neutral,0.8666538000106812
+126,7,Therapist integrated standard behavioral prompting but required hand-over-hand prompting for compliance.,Neutral,0.86262047290802
+126,8,The AI introduced adaptive storytelling to model standard behavioral prompting using Trains and mechanical systems analogies.,Neutral,0.7523057460784912
+126,9,Standard instruction failed; therapist integrated visual 'calm down' maps using Trains and mechanical systems props to regain composure.,Negative,0.5819402933120728
+126,10,Parent utilized visual cues to support the child's understanding of a digital visual timer.,Neutral,0.7820897102355957
+126,11,Parent successfully employed social stories regarding transitions; child was highly motivated by the Trains and mechanical systems narrative.,Positive,0.5905478596687317
+126,12,"Slowly employed scripted social greetings, though the child's attention wavered throughout.",Neutral,0.7586638927459717
+126,13,Moderately scaffolded proprioceptive heavy work with frequent verbal reminders required.,Neutral,0.8560065031051636
+126,14,Scaffolded gestural prompting alongside Trains and mechanical systems visuals to re-engage the child.,Neutral,0.8434927463531494
+127,1,Child refused the task; integrated a simplified version of tactile stress-relief objects to reduce anxiety.,Neutral,0.48355796933174133
+127,2,"Slowly utilized structured role-play scenarios, though the child's attention wavered throughout.",Neutral,0.7911255359649658
+127,3,Child refused the task; employed a simplified version of front-loading of upcoming changes to reduce anxiety.,Negative,0.4853208065032959
+127,4,Standard instruction failed; therapist utilized scripted social greetings using Minecraft and building blocks props to regain composure.,Negative,0.5538272261619568
+127,5,Therapist scaffolded auditory dampening (headphones) but required hand-over-hand prompting for compliance.,Neutral,0.8516749143600464
+127,6,"Slowly introduced gestural prompting, though the child's attention wavered throughout.",Neutral,0.8165602087974548
+127,7,"Attempted to applied standard behavioral prompting, but session was paused due to sensory escalation.",Neutral,0.4993239939212799
+127,8,Introduced standard behavioral prompting alongside Minecraft and building blocks visuals to re-engage the child.,Positive,0.5818547606468201
+127,9,Modeled deep breathing protocols alongside Minecraft and building blocks visuals to re-engage the child.,Positive,0.6674033403396606
+127,10,Parent integrated visual cues to support the child's understanding of structured role-play scenarios.,Neutral,0.7527238726615906
+127,11,Child practiced a 'First-Then' visual board after the parent utilized Minecraft and building blocks-themed positive reinforcement.,Positive,0.6644797921180725
+127,12,"Attempted to employed scripted social greetings, but session was paused due to sensory escalation.",Negative,0.5168673396110535
+127,13,Child practiced proprioceptive heavy work after the parent scaffolded Minecraft and building blocks-themed positive reinforcement.,Neutral,0.5569272041320801
+127,14,Modeled verbal sentence starters alongside Minecraft and building blocks visuals to re-engage the child.,Positive,0.6148554086685181
+128,1,"Slowly scaffolded a '5-count' grounding technique, though the child's attention wavered throughout.",Neutral,0.8545154333114624
+128,2,Standard instruction failed; therapist scaffolded a digital visual timer using Disney princesses (Frozen) props to regain composure.,Negative,0.5249016880989075
+128,3,Standard instruction failed; therapist scaffolded a 'First-Then' visual board using Disney princesses (Frozen) props to regain composure.,Negative,0.4990091919898987
+128,4,Standard instruction failed; therapist applied facial emotion recognition cards using Disney princesses (Frozen) props to regain composure.,Neutral,0.4915112555027008
+128,5,Parent utilized visual cues to support the child's understanding of proprioceptive heavy work.,Neutral,0.761084794998169
+128,6,Employed gestural prompting alongside Disney princesses (Frozen) visuals to re-engage the child.,Neutral,0.6293748021125793
+128,7,"Attempted to scaffolded standard behavioral prompting, but session was paused due to sensory escalation.",Neutral,0.5201585292816162
+128,8,Parent successfully introduced standard behavioral prompting; child was highly motivated by the Disney princesses (Frozen) narrative.,Positive,0.7676209211349487
+128,9,Parent applied visual cues to support the child's understanding of visual 'calm down' maps.,Neutral,0.7358062863349915
+128,10,Therapist applied structured role-play scenarios but required hand-over-hand prompting for compliance.,Neutral,0.8744155168533325
+128,11,Child refused the task; introduced a simplified version of front-loading of upcoming changes to reduce anxiety.,Neutral,0.4969121813774109
+128,12,Therapist scaffolded reciprocal play modeling but required hand-over-hand prompting for compliance.,Neutral,0.8661635518074036
+128,13,Parent applied visual cues to support the child's understanding of dimmed lighting environments.,Neutral,0.7778762578964233
+128,14,"Attempted to applied verbal sentence starters, but session was paused due to sensory escalation.",Negative,0.5112054944038391
+129,1,Moderately introduced deep breathing protocols with frequent verbal reminders required.,Neutral,0.8864779472351074
+129,2,Scaffolded structured role-play scenarios alongside Marine biology (Sharks) visuals to re-engage the child.,Neutral,0.7968187928199768
+129,3,Therapist applied predictive scheduling but required hand-over-hand prompting for compliance.,Neutral,0.8756072521209717
+129,4,Parent employed visual cues to support the child's understanding of scripted social greetings.,Neutral,0.7545234560966492
+129,5,Moderately employed auditory dampening (headphones) with frequent verbal reminders required.,Neutral,0.775775134563446
+129,6,Therapist introduced gestural prompting but required hand-over-hand prompting for compliance.,Neutral,0.8748711347579956
+129,7,The AI modeled adaptive storytelling to model standard behavioral prompting using Marine biology (Sharks) analogies.,Neutral,0.8229933381080627
+129,8,"Slowly scaffolded standard behavioral prompting, though the child's attention wavered throughout.",Neutral,0.8609046936035156
+129,9,"Attempted to modeled tactile stress-relief objects, but session was paused due to sensory escalation.",Neutral,0.5081416964530945
+129,10,"Attempted to utilized a digital visual timer, but session was paused due to sensory escalation.",Negative,0.49986645579338074
+129,11,"Session integrated social stories regarding transitions within a customized Marine biology (Sharks) storyline, capturing sustained attention.",Neutral,0.6764291524887085
+129,12,"Session utilized joint attention activities within a customized Marine biology (Sharks) storyline, capturing sustained attention.",Neutral,0.6084770560264587
+129,13,"Due to high distress, the session focused solely on scaffolded proprioceptive heavy work for emotional regulation.",Neutral,0.6672409772872925
+129,14,The AI integrated adaptive storytelling to model verbal sentence starters using Marine biology (Sharks) analogies.,Neutral,0.783550500869751
+130,1,Moderately applied visual 'calm down' maps with frequent verbal reminders required.,Neutral,0.8456288576126099
+130,2,"Attempted to integrated a digital visual timer, but session was paused due to sensory escalation.",Negative,0.5460969805717468
+130,3,Modeled a 'First-Then' visual board alongside Dinosaurs and fossils visuals to re-engage the child.,Neutral,0.7829410433769226
+130,4,Parent introduced joint attention activities as a de-escalation measure when the child became overwhelmed.,Neutral,0.7826677560806274
+130,5,Moderately utilized proprioceptive heavy work with frequent verbal reminders required.,Neutral,0.8683607578277588
+130,6,Therapist employed communication exchange cards (PECS) but required hand-over-hand prompting for compliance.,Neutral,0.8683906197547913
+130,7,Moderately introduced standard behavioral prompting with frequent verbal reminders required.,Neutral,0.8846578598022461
+130,8,Parent successfully applied standard behavioral prompting; child was highly motivated by the Dinosaurs and fossils narrative.,Positive,0.5426297187805176
+130,9,Standard instruction failed; therapist modeled visual 'calm down' maps using Dinosaurs and fossils props to regain composure.,Negative,0.6538074016571045
+130,10,Parent applied visual cues to support the child's understanding of musical cues for transition.,Neutral,0.7880412340164185
+130,11,Therapist modeled a 'First-Then' visual board but required hand-over-hand prompting for compliance.,Neutral,0.8720719218254089
+130,12,Therapist utilized reciprocal play modeling but required hand-over-hand prompting for compliance.,Neutral,0.8539958000183105
+130,13,Child practiced dimmed lighting environments after the parent applied Dinosaurs and fossils-themed positive reinforcement.,Neutral,0.8499118685722351
+130,14,Therapist integrated communication exchange cards (PECS) by incorporating Dinosaurs and fossils characters as peer models.,Neutral,0.7645832896232605
