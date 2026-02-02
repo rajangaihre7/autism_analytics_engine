@@ -2,8 +2,3 @@ streamlit
 pandas
 plotly
 openpyxl
-scikit-learn
-scipy
-transformers
-torch
-tf-keras
