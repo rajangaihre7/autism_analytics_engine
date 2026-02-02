@@ -1,4 +1,9 @@
+streamlit
 pandas
-numpy
-scipy
+plotly
 openpyxl
+scikit-learn
+scipy
+transformers
+torch
+tf-keras
