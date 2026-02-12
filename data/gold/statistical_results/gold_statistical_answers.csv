@@ -1,15 +1,15 @@
-ID,Group,Query,Stat,P-Value,Result
-Q1,Efficiency,Social Impact Trend,0.8559122353472217,8.706726561787436e-122,Significant
-Q2,Efficiency,Response Time Reduction %,39.28571428571429,N/A,39.3% Improvement
-Q3,Efficiency,High Distress Count (Early vs Late),49.0,N/A,Dropped from 78 to 29
-Q4,Efficiency,Verbal Growth Slope (Low Starters),0.29230769230769227,N/A,Avg +0.29 pts/session
-Q5,Drivers,Home App Correlation Strength,1.0,N/A,Stronger
-Q6,Drivers,Personalization Impact on Enjoyment,10.25767144495931,3.5992932738812225e-22,Significant
-Q7,Drivers,Understanding-Generalization Link,0.921775080764539,4.258432861280746e-174,Strong Correlation
-Q8,Drivers,Success Boost from Real Life Link,28.257862903225806,N/A,+28.3% Success Rate
-Q9,Mechanisms,Personalization -> Initiation,0.4145522797332801,7.129403978994773e-19,Weak Link
-Q10,Mechanisms,Creativity -> Confidence,0.44844242195746953,3.5992932738812055e-22,Predictive
-Q11,Mechanisms,Age vs Improvement Speed,,,Younger improves faster
-Q12,Mechanisms,Gender Difference in Emotion,2.0749733798097156,0.038600228428767216,Significant Diff
-Q13,Predictions,Early Engagement Predicts Outcome,0.20725943625267398,0.2717869426196671,Weak Predictor
-Q15,Predictions,Initiation Improves Relationship,0.5004637824701378,5.251824226816345e-28,Correlated
+ID,Group,Query,Stat,Result
+Q1,Efficiency,Social Impact Trend,0.703,Significant
+Q2,Efficiency,Response Time Reduction %,44.4,44.4% Improvement
+Q3,Efficiency,Severe Distress Incidents,0,0 Incidents
+Q4,Efficiency,Verbal Growth (Low Starters),0,Insufficient Data (None < 6)
+Q5,Drivers,Stronger Driver,0.51,Home
+Q6,Drivers,Personalization Impact,0,Insufficient Data
+Q7,Drivers,Understanding-Generalization,0.67,Strong
+Q8,Drivers,Success Boost (Real Life Link),19.3,+19.3% Success
+Q9,Mechanisms,Personalization -> Initiation,0.14,Weak Link
+Q10,Mechanisms,Creativity -> Confidence,0.05,Not Predictive
+Q11,Mechanisms,Age vs Improvement,1,Younger improves faster
+Q12,Mechanisms,Gender Difference,0,One Gender Dominant
+Q13,Predictions,Early Engagement Predicts Outcome,0,Insufficient Data
+Q15,Predictions,Initiation -> Relationship,0.32,Unrelated
